@@ -75,4 +75,11 @@ input:focus{
 .form-link a{
 	color: #170B6AE0;
 }
-
+/*#alert{
+	padding: 5px;
+	margin: 15px;
+	text-align: center;
+	color: green;
+	font-size: 14px;
+	border: 1px solid green;
+}
